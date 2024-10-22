@@ -348,7 +348,7 @@ button:focus {
     min-height: 780px;
     z-index: 1; }
     .blog_banner .banner_inner .overlay {
-      background: url(../img/banner/IMG_2100.JPG) no-repeat scroll center center;
+      background: url(../img/banner/home-banner.JPG) no-repeat scroll center center;
       opacity: .5;
       height: 125%;
       position: absolute;
