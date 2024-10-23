@@ -348,7 +348,7 @@ button:focus {
     min-height: 780px;
     z-index: 1; }
     .blog_banner .banner_inner .overlay {
-      background: url(../img/banner/home-banner.JPG) no-repeat scroll center center;
+      background: url(..\images\home-banner.JPG) no-repeat scroll center center;
       opacity: .5;
       height: 125%;
       position: absolute;
@@ -388,7 +388,7 @@ button:focus {
     width: 100%;
     min-height: 430px;
     background: #f9f9ff;
-    z-index: 1; }
+    z-index: -1; }
     .banner_area .banner_inner .banner_content {
       margin-top: 70px; }
       .banner_area .banner_inner .banner_content h2 {
