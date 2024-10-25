@@ -3086,7 +3086,12 @@ h6 {
   margin-top: 60px; }
   .copy_right_text p a {
     color: #8490ff; }
-
+ 
+<style> 
+  .underline {
+    text-decoration: underline;
+  }
+</style>
 /* End Footer Area css
 ============================================================================================ */
 /*---------------------------------------------------- */
